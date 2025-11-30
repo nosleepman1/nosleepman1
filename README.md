@@ -6,6 +6,8 @@
  I’m open to help you take your projects to the next level<br>
 I also contribute to opensource projects<br>
  How to reach me **abdallahdiouf.dev@gmail.com**<br>
+ Check my protfolio on **https://abdallahdiouf.vercel.app**
+ 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nosleepman1&label=Profile%20views&color=yellow&style=flat" alt="49maodo" /> </p>
 
@@ -23,14 +25,13 @@ I also contribute to opensource projects<br>
 
 </div>
 
-<details>
-
-<summary> GitHub Stats</summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nosleepman1&theme=onedark" alt="49maodo" /></a> </p>
+<br><br>
+<h1 align="center"> GitHub Stats</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nosleepman1&theme=onedark" alt="nosleepman1" /></a> </p>
 
 <p align="center">
-        <img align="center" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosleepman1&layout=compact&langs_count=10&theme=onedark&hide_border=true&count-private=true" 
+         <img align="center" height="auto"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nosleepman1&theme=onedark&hide_border=true" 
         alt="nosleepman1" />
         <img align="center" height="auto"
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nosleepman1&theme=onedark&hide_border=true" 
@@ -38,12 +39,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosleepman1&
 </p>  
 
 <p align="center">
-<img align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=nosleepman1&theme=onedark&hide_border=false&show_icons=true&locale=en" 
-        alt="nosleepman1" />
-<img align="center" 
+ <img align="center" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=nosleepman1&theme=onedark&hide_border=false&" 
         alt="nosleepman1" />
+
+
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosleepman1&
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nosleepman1&theme=onedark&hide_border=true" 
         alt="nosleepman1" />
 </p>
-</details>
+
 
 
 ---
