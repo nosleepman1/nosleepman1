@@ -13,13 +13,13 @@ I also contribute to opensource projects<br>
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript,python,java,cpp,c)](https://skillicons.dev)
 
 ### 🖥️ Frontend
-[![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,react,reactnative,nextjs)](https://skillicons.dev)
+[![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,react,reactnative)](https://skillicons.dev)
 
 ### ⚙️ Backend
 [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,express,nestjs)](https://skillicons.dev)
 
 ### 🧩 DataBases
-[![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,mongodb,mysql,sqlite,prisma)](https://skillicons.dev)
+[![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,mongodb,mysql,sqlite,prisma,mongoose)](https://skillicons.dev)
 
 </div>
 
@@ -31,25 +31,25 @@ I also contribute to opensource projects<br>
 <p align="center">
         <img align="center" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosleepman1&layout=compact&langs_count=10&theme=onedark&hide_border=true&count-private=true" 
-        alt="49maodo" />
+        alt="nosleepman1" />
         <img align="center" height="auto"
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nosleepman1&theme=onedark&hide_border=true" 
-        alt="49maodo" />
+        alt="nosleepman1" />
 </p>  
 
 <p align="center">
 <img align="center" 
         src="https://github-readme-stats.vercel.app/api?username=nosleepman1&theme=onedark&hide_border=false&show_icons=true&locale=en" 
-        alt="49maodo" />
+        alt="nosleepman1" />
 <img align="center" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=nosleepman1&theme=onedark&hide_border=false&" 
-        alt="49maodo" />
+        alt="nosleepman1" />
 </p>
 
 <p align="center">
 <img align="center" 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nosleepman1&theme=onedark&hide_border=true" 
-        alt="49maodo" />
+        alt="nosleepman1" />
 </p>
 </details>
 
@@ -62,4 +62,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosleepman1&
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sunu-byte-1&theme=tokyonight&no-frame=true&row=1)](https://github.com/Sunu-byte-1)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=nosleepman1&theme=tokyonight&no-frame=true&row=1)](https://github.com/Sunu-byte-1)
