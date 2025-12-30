@@ -14,9 +14,11 @@
   ### 🖥️ Frontend 
   [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,react,reactnative)](https://skillicons.dev) 
   ### ⚙️ Backend 
-  [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,express,nestjs)](https://skillicons.dev) 
+  [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,express,nestjs,redis)](https://skillicons.dev) 
   ### 🧩 DataBases 
-  [![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,mongodb,mysql,sqlite,prisma,mongoose)](https://skillicons.dev) 
+  [![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,firebase,sqlite,prisma,mongoose)](https://skillicons.dev) 
+  ### 🧩 CI CD 
+  [![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,githubactions,firebase)](https://skillicons.dev) 
 
   
   </div> 
