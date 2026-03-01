@@ -1,37 +1,44 @@
-<div align="center"> 
-  <div> 
-    <h1 align="center">Abdallah DIOUF !</h1>
-    <h3 align="center">A passionate Full Stack developer</h3> 
-    Check my protfolio on **https://abdallahdiouf.vercel.app** 
-  </div> 
-  <br>
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=nosleepman1&label=Profile%20views&color=yellow&style=flat" alt="nosleepman1" />
-  </p> 
+<div align="center" style="font-family: 'Fira Code', monospace;">
 
-  ### 💻 Languages 
-  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript,python,java,cpp,c)](https://skillicons.dev) 
-  ### 🖥️ Frontend 
+  <!-- PHOTO DE PROFIL -->
+  
+  <br/>
+  
+
+  <!-- 1. EN-TÊTE ANIMÉ : Fira Code + Ligatures + Termes Portfolio -->
+  <a href="https://abdallahdiouf.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Abdallah+Diouf;Backend+Dev;Full+Stack+Developer;Devops" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- 2. LIENS RAPIDES -->
+  
+</div>
+
+<br/>
+
+<!-- 3. PRÉSENTATION VISUELLE -->
+<div align="center" style="font-family: 'Fira Code', monospace;">
+
+  
+  <br/>
+  
+  <!-- 4. STACK TECHNIQUE -->
+  <h3 style="font-family: 'Fira Code', monospace;">Mon arsenal technique</h3>
+
+   [![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript,python,java,cpp,c)](https://skillicons.dev) 
+
   [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,react,reactnative)](https://skillicons.dev) 
-  ### ⚙️ Backend 
+
   [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,express,nestjs,redis)](https://skillicons.dev) 
-  ### 🧩 DataBases 
-  [![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,firebase,sqlite,prisma,mongoose)](https://skillicons.dev) 
-  ### 🧩 CI CD 
+
+
   [![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,githubactions,firebase)](https://skillicons.dev) 
 
   
-  </div> 
+  
+ 
 
-  
-  <h1 align="center"> GitHub Stats</h1> 
+</div>
 
-  <p align="center"> 
-    <img align="center" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nosleepman1&theme=onedark&hide_border=true" alt="nosleepman1" /> 
-    <img align="center" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nosleepman1&theme=onedark&hide_border=true" alt="nosleepman1" /> 
-  </p> 
-  
-  
-  <p align="center"> 
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nosleepman1&theme=onedark&hide_border=true" alt="nosleepman1" /> 
-  </p> 
