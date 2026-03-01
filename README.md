@@ -16,13 +16,9 @@
   
 </div>
 
-<br/>
 
 <!-- 3. PRÉSENTATION VISUELLE -->
 <div align="center" style="font-family: 'Fira Code', monospace;">
-
-  
-  <br/>
   
   <!-- 4. STACK TECHNIQUE -->
   <h3 style="font-family: 'Fira Code', monospace;">Mon arsenal technique</h3>
@@ -34,7 +30,9 @@
   [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,express,nestjs,redis)](https://skillicons.dev) 
 
 
-  [![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,githubactions,firebase)](https://skillicons.dev) 
+  [![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,githubactions,git)](https://skillicons.dev) 
+
+  [![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana)](https://skillicons.dev) 
 
   
   
