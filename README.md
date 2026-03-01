@@ -1,16 +1,14 @@
 <div align="center" style="font-family: 'Fira Code', monospace;">
 
   <!-- PHOTO DE PROFIL -->
-  
-  <br/>
-  
 
   <!-- 1. EN-TÊTE ANIMÉ : Fira Code + Ligatures + Termes Portfolio -->
-  <a href="https://abdallahdiouf.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Abdallah+Diouf;Backend+Dev;Full+Stack+Developer;Devops" alt="Typing SVG" />
+  <a href="https://abdallahdiouf.vercel.app/" >
+    <h1>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Abdallah+Diouf;Backend+Dev;Full+Stack+Developer;Devops" alt="Typing SVG" />
+    </h1>
   </a>
 
-  <br/>
 
   <!-- 2. LIENS RAPIDES -->
   
@@ -21,7 +19,7 @@
 <div align="center" style="font-family: 'Fira Code', monospace;">
   
   <!-- 4. STACK TECHNIQUE -->
-  <h3 style="font-family: 'Fira Code', monospace;">Mon arsenal technique</h3>
+  <h3 style="font-family: 'Fira Code', monospace;">Stack technique</h3>
 
    [![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript,python,java,cpp,c)](https://skillicons.dev) 
 
