@@ -1,38 +1,20 @@
-<div align="center" style="font-family: 'Fira Code', monospace;">
-
-  <!-- PHOTO DE PROFIL -->
-
-  <a href="https://abdallahdiouf.vercel.app/" >
-    <h1>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Abdallah+Diouf;Backend+Dev;Full+Stack+Developer;Devops" alt="Typing SVG" />
-    </h1>
+<div align="left">
+  <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
+    <img
+      width="500"
+      height="600"
+      align="right"
+      src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
+    />
   </a>
-  
 </div>
 
-
-<!-- 3. PRÉSENTATION VISUELLE -->
-<div align="center" style="font-family: 'Fira Code', monospace;">
-  
-  <!-- 4. STACK TECHNIQUE -->
-  <h3 style="font-family: 'Fira Code', monospace;">Stack technique</h3>
-
-   [![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript,python,java,cpp,golang)](https://skillicons.dev) 
-
-  [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,shadcn,bootstrap,react,reactnative)](https://skillicons.dev) 
-
-  [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nestjs,express,nodejs,)](https://skillicons.dev) 
-
-   [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,mongodb,redis)](https://skillicons.dev) 
-
-  [![devops Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,kubernetes,githubactions,git)](https://skillicons.dev) 
-
-  [![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,n8n)](https://skillicons.dev) 
-  
-
-  
-  
- 
-
-</div>
-
+# Hello, i'm Abdallah DIOUF
+  - Software Engineering student.
+    
+  - [![My Skills](https://skillicons.dev/icons?i=python,java,php,typescript)](https://skillicons.dev)
+ - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nestjs,express,nodejs)](https://skillicons.dev)
+ - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,tailwindcss,daisyui)](https://skillicons.dev)
+ - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongo,redis)](https://skillicons.dev) 
+ - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,kubernetes,aws)](https://skillicons.dev) 
+   
