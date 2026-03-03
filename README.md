@@ -26,7 +26,7 @@
 
   [![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,githubactions,git)](https://skillicons.dev) 
 
-  [![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana)](https://skillicons.dev) 
+  [![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,n8n)](https://skillicons.dev) 
 
   
   
