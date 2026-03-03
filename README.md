@@ -1,7 +1,7 @@
 <div align="center" style="font-family: 'Fira Code', monospace;">
 
   <!-- PHOTO DE PROFIL -->
-
+ 
   <!-- 1. EN-TÊTE ANIMÉ : Fira Code + Ligatures + Termes Portfolio -->
   <a href="https://abdallahdiouf.vercel.app/" >
     <h1>
