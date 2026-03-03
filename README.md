@@ -19,17 +19,16 @@
 
    [![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript,python,java,cpp,golang)](https://skillicons.dev) 
 
-  [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,react,reactnative)](https://skillicons.dev) 
+  [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,shadcn,bootstrap,react,reactnative)](https://skillicons.dev) 
 
-  [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,express,nestjs,redis)](https://skillicons.dev) 
+  [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nestjs,express,nodejs,)](https://skillicons.dev) 
 
-   [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,mongodb)](https://skillicons.dev) 
+   [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,mongodb,redis)](https://skillicons.dev) 
 
-  [![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,githubactions,git)](https://skillicons.dev) 
+  [![devops Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,kubernetes,githubactions,git)](https://skillicons.dev) 
 
   [![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,n8n)](https://skillicons.dev) 
   
-   [![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=claude)](https://skillicons.dev) 
 
   
   
