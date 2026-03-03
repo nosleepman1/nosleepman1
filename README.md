@@ -23,6 +23,7 @@
 
   [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,express,nestjs,redis)](https://skillicons.dev) 
 
+   [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,mongodb)](https://skillicons.dev) 
 
   [![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,githubactions,git)](https://skillicons.dev) 
 
