@@ -17,7 +17,7 @@
   <!-- 4. STACK TECHNIQUE -->
   <h3 style="font-family: 'Fira Code', monospace;">Stack technique</h3>
 
-   [![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript,python,java,cpp,c)](https://skillicons.dev) 
+   [![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript,python,java,cpp,golang)](https://skillicons.dev) 
 
   [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,react,reactnative)](https://skillicons.dev) 
 
