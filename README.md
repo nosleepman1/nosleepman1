@@ -9,11 +9,16 @@
 </div>
 
 # Hello, i'm Abdallah DIOUF
-  - Software Engineering student.
+Software Engineering Student • Fullstack Developer • Backend & Cloud Enthusiast
+
+I build scalable SaaS applications, developer tools, and modern backend systems focused on real-world African problems.
+
+Currently focused on software architecture, cloud infrastructure, backend engineering, and product-oriented development.
     
-  - [![My Skills](https://skillicons.dev/icons?i=typescript,php,python,java,javascript,go)](https://skillicons.dev)
-  - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nestjs,express,adonis,graphql,socketio)](https://skillicons.dev) 
- - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,livewire,reactnative,tailwindcss,shadcn,daisyui)](https://skillicons.dev)
+  - [![My Skills](https://skillicons.dev/icons?i=typescript,adonis,nestjs,php,laravel,python)](https://skillicons.dev)
+ - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,aws,ec2,ecr,ecs)](https://skillicons.dev)
  - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongo,redis,firebase,supabase)](https://skillicons.dev) 
- - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,kubernetes,aws,grafana,prometheus)](https://skillicons.dev) 
+ - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,tailwindcss,shadcn,daisyui,bootstrap)](https://skillicons.dev)
+
+
    
