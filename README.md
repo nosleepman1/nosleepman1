@@ -21,4 +21,12 @@ Currently focused on software architecture, cloud infrastructure, backend engine
  - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,tailwindcss,shadcn,daisyui,bootstrap)](https://skillicons.dev)
 
 
+
+
+<p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nosleepman1&theme=blueberry)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nosleepman1&theme=blueberry)⠀   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nosleepman1&theme=blueberry)⠀   
+</p>
    
