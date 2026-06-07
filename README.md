@@ -23,10 +23,10 @@ Currently focused on software architecture, cloud infrastructure, backend engine
 
 
 
-<p>
+<!-- <p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nosleepman1&theme=blueberry)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nosleepman1&theme=blueberry)⠀   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nosleepman1&theme=blueberry)⠀   
 </p>
-   
+    -->
