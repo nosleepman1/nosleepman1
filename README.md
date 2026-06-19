@@ -15,10 +15,12 @@ I build scalable SaaS applications, developer tools, and modern backend systems 
 
 Currently focused on software architecture, cloud infrastructure, backend engineering, and product-oriented development.
     
-  - [![My Skills](https://skillicons.dev/icons?i=typescript,adonis,nestjs,php,laravel,python)](https://skillicons.dev)
+  - [![My Skills](https://skillicons.dev/icons?i=typescript,python,php,adonis,nestjs,laravel)](https://skillicons.dev)
  - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,aws,ec2,ecr,ecs)](https://skillicons.dev)
  - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongo,redis,firebase,supabase)](https://skillicons.dev) 
  - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,tailwindcss,shadcn,daisyui,bootstrap)](https://skillicons.dev)
+<!-- - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,tensorflow,matplotlib,fastapi,numpy)](https://skillicons.dev) -->
+
 
 
 
