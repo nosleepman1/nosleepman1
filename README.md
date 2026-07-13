@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://malcolm-dev.pro/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,23,24,25,26,27&height=220&section=header&text=Abdallah%20DIOUF&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" alt="Header"/>
+  </a>
+</p>
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nosleepman1&label=PROFILE+VIEWS&color=2E75B6&style=for-the-badge" alt="Profile views"/>
+</p> -->
+
+
+
+
 <div align="left">
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
     <img
@@ -8,12 +21,13 @@
   </a>
 </div>
 
-# Hello, i'm Abdallah DIOUF
-Software Engineering Student • Fullstack Developer • Backend & Cloud Enthusiast
+## About Me
 
-I build scalable SaaS applications, developer tools, and modern backend systems focused on real-world African problems.
+Software Engineer passionate about designing reliable, scalable and maintainable software.
+I enjoy building backend architectures, REST APIs and full-stack applications while continuously learning cloud technologies, DevOps and Machine Learning.
+I'm always looking for opportunities to contribute to impactful projects and open-source software.
 
-Currently focused on software architecture, cloud infrastructure, backend engineering, and product-oriented development.
+
     
   - [![My Skills](https://skillicons.dev/icons?i=typescript,python,php,adonis,nestjs,laravel)](https://skillicons.dev)
  - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,aws,ec2,ecr,ecs)](https://skillicons.dev)
@@ -22,6 +36,26 @@ Currently focused on software architecture, cloud infrastructure, backend engine
 <!-- - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,tensorflow,matplotlib,fastapi,numpy)](https://skillicons.dev) -->
 
 
+
+<h2 align="left"> Some Stats </h2>
+
+<p align="center">
+  <a href="https://github.com/nosleepman1">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nosleepman1&theme=tokyonight" alt="Profile details"/>
+  </a>
+  <a href="https://github.com/nosleepman1">
+    <img width="49%" src="https://streak-stats.demolab.com?user=nosleepman1&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nosleepman1">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nosleepman1&theme=tokyonight&exclude=github-slideshow,openclassroom,EXERCICE_JAVA" alt="Repos per language"/>
+  </a>
+  <a href="https://github.com/nosleepman1">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nosleepman1&theme=tokyonight" alt="Most commit language"/>
+  </a>
+</p>
 
 
 
