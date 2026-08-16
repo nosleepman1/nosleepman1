@@ -29,7 +29,7 @@ I'm always looking for opportunities to contribute to impactful projects and ope
 
 
     
-  - [![My Skills](https://skillicons.dev/icons?i=typescript,python,php,adonis,nestjs,laravel)](https://skillicons.dev)
+  - [![My Skills](https://skillicons.dev/icons?i=typescript,python,php,go,nestjs,laravel)](https://skillicons.dev)
  - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,aws,ec2,ecr,ecs)](https://skillicons.dev)
  - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongo,redis,firebase,supabase)](https://skillicons.dev) 
  - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,tailwindcss,shadcn,daisyui,bootstrap)](https://skillicons.dev)
