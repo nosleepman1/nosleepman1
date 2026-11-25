@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://abdallahdiouf.xyz/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,23,24,25,26,27&height=220&section=header&text=Abdallah%20DIOUF&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20AI%20%20Developper&descAlignY=58&descSize=18&animation=fadeIn" alt="Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,23,24,25,26,27&height=220&section=header&text=Abdallah%20DIOUF&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Deep%20%20Learning&descAlignY=58&descSize=18&animation=fadeIn" alt="Header"/>
   </a>
 </p>
 
@@ -11,29 +11,22 @@
 
 
 
-<div align="left">
-  <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
-    <img
-      width="400"
-      align="right"
-      src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
-    />
-  </a>
-</div>
+
 
 ## About Me
 
 Software Engineer passionate about designing reliable, scalable and maintainable software.
 I enjoy building backend architectures, REST APIs and full-stack applications while continuously learning cloud technologies, DevOps and Machine Learning.
-I'm always looking for opportunities to contribute to impactful projects and open-source software.
 
 
     
-  - [![My Skills](https://skillicons.dev/icons?i=typescript,python,php,go,nestjs,laravel)](https://skillicons.dev)
- - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,aws,prometheus,grafana,kibana)](https://skillicons.dev)
- - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongo,redis,firebase,supabase)](https://skillicons.dev) 
- - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,flutter,tailwindcss,shadcn,daisyui)](https://skillicons.dev)
-<!-- - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,tensorflow,matplotlib,fastapi,numpy)](https://skillicons.dev) -->
+
+
+## Tech Stack
+
+|  Languages |  Backend| Frontend & Mobile | Databases | DevOps | AI & ML |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [![Languages](https://skillicons.dev/icons?i=typescript,python,php,java,go,dart&perline=2)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=nestjs,laravel,adonis,spring,express,fastapi&perline=2)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,flutter,tailwindcss,shadcn,daisyui&perline=2)](https://skillicons.dev) | [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&perline=2)](https://skillicons.dev) | [![DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,aws,githubactions,prometheus,grafana,kibana&perline=2)](https://go-skill-icons.vercel.app/) | [![AI & ML](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scikitlearn,pytorch,tensorflow&perline=2)](https://go-skill-icons.vercel.app/) |
 
 
 
