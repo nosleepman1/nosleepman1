@@ -19,7 +19,6 @@ Software Engineer passionate about designing reliable, scalable and maintainable
 I enjoy building backend architectures, REST APIs and full-stack applications while continuously learning cloud technologies, DevOps and Machine Learning.
 
 
-    
 
 
 ## Tech Stack
@@ -28,7 +27,7 @@ I enjoy building backend architectures, REST APIs and full-stack applications wh
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [![Languages](https://skillicons.dev/icons?i=typescript,python,php,java,go,dart&perline=2)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=nestjs,laravel,adonis,spring,express,fastapi&perline=2)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,flutter,tailwindcss,shadcn,daisyui&perline=2)](https://skillicons.dev) | [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&perline=2)](https://skillicons.dev) | [![DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,aws,githubactions,prometheus,grafana,kibana&perline=2)](https://go-skill-icons.vercel.app/) | [![AI & ML](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scikitlearn,pytorch,tensorflow&perline=2)](https://go-skill-icons.vercel.app/) |
 
-
+  <img src="https://ghchart.rshah.org/39d353/nosleepman1" alt="Contributions GitHub" width="100%" />
 
 <h2 align="left"> Some Stats </h2>
 
